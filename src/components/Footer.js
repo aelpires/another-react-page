@@ -22,8 +22,9 @@ export const Footer = () => {
             </div>
             <p>Copyright 2023. All Rights Reserved</p>							{`© ${new Date().getFullYear()} CodeCove Innovations. `}
 							<a href={`${process.env.PUBLIC_URL}/humans.txt`} target="_blank" rel="noopener noreferrer">
-							  <br /> All rights reserved.
-							</a>          </Col>
+							  <br />
+							</a>          
+          </Col>
         </Row>
       </Container>
     </footer>
