@@ -1,0 +1,35 @@
+   __     ____
+  /  \   |    |
+ / __ \  |____|
+/_/  \_\ |
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+DESIGNER
+
+Alexandre Eduardo Lagoa Pires
+Hand crafted design & web development
+
+Design tools:
+Figma
+Photoshop
+Blender
+
+github.com/aelpires
+aelpires@gamil.com
+
+_______________________________________________________________________________
+
+TECHNOLOGY 
+
+VS Code
+React
+Next.js
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+

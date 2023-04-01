@@ -20,8 +20,10 @@ export const Footer = () => {
               <a href="https://github.com/aelpires?tab=repositories"><img src={navIcon2} alt="Icon" /></a>
               <a href="https://www.instagram.com/alexandre.lpires/"><img src={navIcon3} alt="Icon" /></a>
             </div>
-            <p>Copyright 2023. All Rights Reserved</p>
-          </Col>
+            <p>Copyright 2023. All Rights Reserved</p>							{`© ${new Date().getFullYear()} CodeCove Innovations. `}
+							<a href={`${process.env.PUBLIC_URL}/humans.txt`} target="_blank" rel="noopener noreferrer">
+							  <br /> All rights reserved.
+							</a>          </Col>
         </Row>
       </Container>
     </footer>
